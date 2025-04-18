@@ -10,11 +10,12 @@ using System.Windows.Forms;
 
 namespace Chat_App
 {
-    public partial class Form1 : Form
+    public partial class fRegister : Form
     {
-        public Form1()
+        public fRegister()
         {
             InitializeComponent();
         }
+
     }
 }
